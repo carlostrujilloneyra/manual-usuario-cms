@@ -1,0 +1,9 @@
+# Ignorar la carpeta de salida de MkDocs
+site/
+
+# Archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Otros artefactos locales
+.DS_Store

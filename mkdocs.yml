@@ -1,0 +1,36 @@
+site_name: Manual de Usuario para CMS - Landing Tácticas
+site_description: Este es un manual de usuario para que pueda entender cómo generar landings tácticas con el CMS desarrollado por la célula Stark de Negocio.
+docs_dir: docs
+
+theme:
+  name: material
+  logo: images/logo-general.svg
+  favicon: images/favicon.ico
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+    - icons
+    - sticky-nav
+    - content.action.edit
+    - content.footer
+
+nav:
+  - Inicio: index.md
+
+# Activar botón de edición
+repo_url: https://github.com/TU-USUARIO/TU-REPO
+edit_uri: edit/main/docs/
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+      fallback_to_build_date: true
+      locale: es
+      type: timeago
+
+extra_css:
+  - stylesheets/custom.css

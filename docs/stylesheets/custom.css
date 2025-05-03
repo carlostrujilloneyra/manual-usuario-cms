@@ -1,0 +1,49 @@
+.md-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111;
+  height: 60px;
+
+  @media screen and (min-width: 680px) {
+    height: 84px;
+  }
+}
+
+.md-logo {
+  margin: 0 auto;
+  height: 21px;
+  width: 117px;
+  pointer-events: none;
+
+  @media screen and (min-width: 680px) {
+    height: 32px;
+    width: 196px;
+  }
+}
+
+.md-header__inner {
+  width: 100%;
+}
+
+.md-nav--primary .md-nav__title[for="__drawer"] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #111;
+  color: var(--md-primary-bg-color);
+  font-weight: 700;
+  height: 60px;
+  padding: 0;
+
+  @media screen and (min-width: 768px) {
+    background-color: transparent;
+    height: 84px;
+  }
+}
+
+.md-ellipsis {
+  color: #111;
+  font-weight: bolder;
+  font-size: 20px;
+}
