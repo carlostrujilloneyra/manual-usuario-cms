@@ -2,11 +2,11 @@ Esperamos que este manual te haya ayudado a comprender el funcionamiento del CMS
 
 Podrás generar Landings Tácticas como las que salieron a producción, tales como:
 
-- **[Landing Táctica de Burger King](https://www.casinoatlanticcity.com/promociones-cyber)**
-- **[Landing Táctica de Cineplanet](https://www.casinoatlanticcity.com/promociones-cine)**
-- **[Landing Táctica de Cabify](https://www.casinoatlanticcity.com/promociones-taxi)**
-- **[Landing Táctica de Repsol](https://www.casinoatlanticcity.com/promociones-gasolina)**
-- **[Landing Táctica de Dunkin Donuts](https://www.casinoatlanticcity.com/promociones-donas)**
+- **[Landing Táctica de Burger King](https://www.casinoatlanticcity.com/promociones-cyber)** 🔗
+- **[Landing Táctica de Cineplanet](https://www.casinoatlanticcity.com/promociones-cine)** 🔗
+- **[Landing Táctica de Cabify](https://www.casinoatlanticcity.com/promociones-taxi)** 🔗
+- **[Landing Táctica de Repsol](https://www.casinoatlanticcity.com/promociones-gasolina)** 🔗
+- **[Landing Táctica de Dunkin Donuts](https://www.casinoatlanticcity.com/promociones-donas)** 🔗
 
 Este CMS fue desarrollado en conjunto por el equipo conformado por:
 

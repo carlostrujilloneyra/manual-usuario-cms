@@ -31,14 +31,17 @@
   justify-content: center;
   align-items: center;
   background-color: #111;
-  color: var(--md-primary-bg-color);
   font-weight: 700;
   height: 60px;
   padding: 0;
+  color: #111;
+}
 
-  @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
+  .md-nav--primary .md-nav__title[for="__drawer"] {
     background-color: transparent;
     height: 84px;
+    display: none;
   }
 }
 
@@ -58,8 +61,14 @@
   font-size: 18px;
 }
 
+.md-ellipsis:hover {
+  color: #d7b72f;
+  transition: all 0.2s ease-in-out;
+}
+
 .md-nav__item .md-nav__link--active,
-.md-nav__item .md-nav__link--active code {
+.md-nav__item .md-nav__link--active code,
+.md-nav--primary .md-nav__item--active > .md-nav__link {
   color: #d7b72f;
   font-weight: bold;
 }
