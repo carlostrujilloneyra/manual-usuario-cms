@@ -4,24 +4,45 @@ docs_dir: docs
 
 theme:
   name: material
+  custom_dir: overrides
   logo: images/logo-general.svg
   favicon: images/favicon.ico
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.sections
-    - toc.integrate
-    - icons
-    - sticky-nav
-    - content.action.edit
-    - content.footer
 
 nav:
-  - Inicio: index.md
+  - 1. Introducción al CMS: index.md
+  - 2. Acceso al CMS (Login): login.md
+  - 3. Pantalla Principal: main-screen.md
+  - 4. Crear Promoción: new-promo.md
+  - 5. Campos de los Tabs del CMS:
+      - 5.1 Tab Configuraciones: config-tab.md
+      - 5.2 Tab Contenido: content-tab.md
+      - 5.3 Previsualizar:
+          - 5.3.1 Primera Opción: first-option-prev.md
+          - 5.3.2 Segunda Opción (con icono): second-option-prev.md
+      - 5.4 Tab TyC (Términos y Condiciones): tyc-tab.md
+      - 5.5 SEO (Optimización para motores de búsqueda): seo.md
+  - 6. Formas de validar el SEO: seo-validation.md
+  - 7. JSON obtenido por el CMS: json.md
+  - 8. Conclusión: conclusion.md
+
+features:
+  - content.footer
+  - navigation.instant
+  - navigation.tabs
+  - navigation.sections
+  - toc.integrate
+  - content.action.edit
+  - content.action.view
+  - content.tabs.link
+  - content.code.annotate
+  - content.tooltips
+  - content.tabs
+  - navigation.top
+  - navigation.footer
 
 # Activar botón de edición
-repo_url: https://github.com/TU-USUARIO/TU-REPO
-edit_uri: edit/main/docs/
+repo_url: https://github.com/carlostrujilloneyra/manual-usuario-cms
+edit_uri: edit/master/docs/
 
 # Plugins
 plugins:
@@ -31,6 +52,10 @@ plugins:
       fallback_to_build_date: true
       locale: es
       type: timeago
+  - git-authors
 
 extra_css:
   - stylesheets/custom.css
+
+extra_javascript:
+  - javascript/extra.js

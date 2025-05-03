@@ -1,0 +1,1 @@
+La segunda opción de **Previsualización** abre una nueva pestaña con la versión actual de la landing táctica, mostrando la información registrada en los campos, así como los colores e imágenes configurados. A continuación se visualiza así:
