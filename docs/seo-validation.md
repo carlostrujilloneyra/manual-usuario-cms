@@ -16,10 +16,10 @@ Podremos visualizar la landing de la siguiente manera:
 
 Realizaremos los siguientes pasos con la landing que visualizamos en una nueva pestaña.
 
-- Clic derecho
-- Inspeccionar
-- Seleccionan Elementos:
-- `Ctrl o Cmd + f` y escriben **description**, les mostará:
+1. Clic derecho
+2. Inspeccionar
+3. Seleccionan Elementos:
+4. `Ctrl o Cmd + f` y escriben **description**, les mostará:
 
 ![Datos del SEO para la Landing Tactica](images/SEO-5.png)
 
@@ -29,7 +29,7 @@ Observaremos que se muestra los valores de los campos title y description que se
 
 Usando una extensión "OGraph Previewer 2.0.0"
 
-- 1. Activamos la extensión
-- 2. Clic al ícono de la extensión y observaremos que se registró correctamente los campos (Title, Image, Description):
+- Activamos la extensión
+- Clic al ícono de la extensión y observaremos que se registró correctamente los campos (Title, Image, Description):
 
 ![Datos del SEO para la Landing Tactica](images/SEO-7.png)

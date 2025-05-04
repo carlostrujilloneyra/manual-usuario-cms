@@ -9,7 +9,7 @@ Una vez que se hayan completado correctamente los campos en el CMS, se generará
 
 ![Botón de API para visualizar el JSON](images/API-Tab.png)
 
-3. El resultado será:
+<li class='list-none'><p>3. El resultado será:</p></li>
 
 <div class="json-block">
 ```json

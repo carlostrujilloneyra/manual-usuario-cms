@@ -108,3 +108,13 @@
   list-style: none;
   margin: 16px 10px;
 }
+
+.md-nav__list .md-nav__item {
+  margin-bottom: 12px;
+}
+
+@media screen and (min-width: 600px) {
+  .md-nav__list .md-nav__item {
+    margin-bottom: 16px;
+  }
+}
