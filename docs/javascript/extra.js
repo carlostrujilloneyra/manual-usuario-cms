@@ -15,4 +15,11 @@ document.addEventListener("DOMContentLoaded", function () {
     githubLink.setAttribute("target", "_blank");
     githubLink.setAttribute("rel", "noopener noreferrer");
   }
+
+  document.querySelectorAll('a[href^="mailto:"]').forEach(el => {
+    el.style.pointerEvents = 'none';
+    el.style.color = '#111';
+    el.style.textDecoration = 'none'; // opcional
+  });
+
 });

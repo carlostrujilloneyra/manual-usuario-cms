@@ -30,6 +30,6 @@ Observaremos que se muestra los valores de los campos title y description que se
 Usando una extensión "OGraph Previewer 2.0.0"
 
 - 1. Activamos la extensión
-- 2. Clic al icono de la extensión y observaremos que se registró correctamente los campos (Title, Image, Description):
+- 2. Clic al ícono de la extensión y observaremos que se registró correctamente los campos (Title, Image, Description):
 
 ![Datos del SEO para la Landing Tactica](images/SEO-7.png)

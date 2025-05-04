@@ -1,12 +1,11 @@
 # 2. Acceso al CMS:
 
-- **URL de acceso**: https://cms-dx.acity.com.pe/admin/login
+- **URL de acceso**: [https://cms-dx.acity.com.pe/admin/login](https://cms-dx.acity.com.pe/admin/login)
 
 - **Credenciales**:
 
-  - Correo electrónico: proporcionado por el administrador (Ejemplo: `admin@acity.com.pe`)
-
-  - Contraseña: proporcionada por el administrador (Ejemplo: `12345`)
+      - Correo electrónico: proporcionado por el administrador (Ejemplo: `admin@acity.com.pe`)
+      - Contraseña: proporcionada por el administrador (Ejemplo: `12345`)
 
 - **Recomendación**: Usar Google Chrome para una mejor compatibilidad.
 
