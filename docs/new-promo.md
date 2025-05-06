@@ -18,7 +18,6 @@ En esta vista también encontrarás una tabla resumen de las landings creadas co
 ---
 
 <li class='list-none' style="margin-left: 20px"><p>3.1 Visualizaremos otros campos:</p></li>
-![Crear promo](images/Crear-promo.png)
 
 ![Primeros Campos](images/First-Fields-CMS.png)
 
@@ -30,10 +29,6 @@ En esta vista también encontrarás una tabla resumen de las landings creadas co
 ---
 
 <li class='list-none'><p>4. Tenemos las siguientes opciones:</p></li>
-
-![Opciones del CMS](images/CMS-Options.png)
-
-<li class='list-none' style="margin-left: 20px"><p>4.1 Observaremos los colores principales y modelos del Temporizador (Brindados por UI).</p></li>
 
 ![Tabs del CMS para Landing Tacticas](images/CMS-Tabs.png)
 

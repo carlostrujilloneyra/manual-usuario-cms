@@ -1,7 +1,22 @@
 {
   "name": "manual-usuario-cms",
   "version": "1.0.0",
+  "description": "Documentación técnica y funcional del CMS del equipo, construida con MkDocs.",
+  "author": "Carlos Trujillo Neyra",
+  "license": "MIT",
   "scripts": {
-    "build": "mkdocs build"
+    "dev": "mkdocs serve",
+    "build": "mkdocs build",
+    "deploy": "mkdocs gh-deploy --clean"
+  },
+  "keywords": [
+    "mkdocs",
+    "documentacion",
+    "cms",
+    "manual"
+  ],
+  "engines": {
+    "node": ">=14",
+    "npm": ">=6"
   }
 }

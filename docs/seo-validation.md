@@ -1,12 +1,12 @@
-_Al completar correctamente los campos del SEO, podremos visualizar que funciona correctamente de las siguientes maneras:_
+Al completar correctamente los campos del SEO, podremos visualizar que funciona correctamente de las siguientes maneras:
 
 - **En el mismo CMS:**
 
 ![Datos del SEO para la Landing Tactica](images/SEO-Info.png)
 
-- **Abriendo en Previsualizar (con ícono)**
+- **Abriendo en Ver en pestaña:**
 
-  Damos clic en **Previsualizar** donde se abrirá otra pestaña donde se podrá visualizar la landing con los datos completos.
+      Haz clic en el botón 'Ver en pestaña' para abrir una nueva pestaña donde podrás visualizar la landing con todos los datos completos.
 
 ![Datos del SEO para la Landing Tactica](images/SEO-3.png)
 

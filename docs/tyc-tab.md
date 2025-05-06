@@ -8,12 +8,12 @@ En esta tab podremos visualizar los diferentes campos como: Vigencia, Mecánica,
 
 ![Términos y Condiciones: Mecánica](images/Mecanica.png)
 
-- **Mecánica:** Describe detalladamente los pasos que debe seguir el usuario para participar. Puedes incluir títulos, subtítulos, párrafos de texto y listas numeradas o con viñetas.
+- **Mecánica <span style='color:red'>(\*)</span>:** Describe detalladamente los pasos que debe seguir el usuario para participar. Puedes incluir títulos, subtítulos, párrafos de texto y listas numeradas o con viñetas.
 
 ---
 
 ![Términos y Condiciones: Premio](images/Premio.png)
 
-- **Premio:** Detalla lo que recibirán los participantes que cumplan con las condiciones. Incluye cantidad de premios, condiciones de uso, vigencia del cupón y cualquier otra restricción relevante. También puedes incluir títulos, subtítulos, párrafos de texto y listas numeradas o con viñetas.
+- **Premio <span style='color:red'>(\*)</span>:** Detalla lo que recibirán los participantes que cumplan con las condiciones. Incluye cantidad de premios, condiciones de uso, vigencia del cupón y cualquier otra restricción relevante. También puedes incluir títulos, subtítulos, párrafos de texto y listas numeradas o con viñetas.
 
 El resultado final será un componente con todos los datos completados (Vigencia, Mecánica y Premio).

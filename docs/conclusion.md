@@ -17,6 +17,6 @@ Este CMS fue desarrollado en conjunto por el equipo conformado por:
 5. Brandon Mitchell (UI)
 6. Gianella Espinoza (UI)
 7. Anggela Suárez Paucar (Product Owner)
-8. Renzo Alvarado y Yerko (LTs)
+8. Renzo Alvarado y Yerko Vera (LTs)
 
 Gracias por utilizar nuestro CMS. ¡Éxitos en la creación de tus contenidos!

@@ -2,13 +2,13 @@ Por defecto se muestra la vista de esta manera:
 
 ![Previsualizar](images/Previsualizar.png)
 
-Contamos con dos opciones para previsualizar. La **opción 1** permite abrir un visualizador que muestra como va quedando la landing táctica con la información completada hasta el momento. A medida que se modifican los campos, la landing se actualiza en tiempo real, como se muestra a continuación:
+Contamos con la opción de **Previsualizar**. Esta nos permite abrir un visualizador que muestra como va quedando la landing táctica con la información completada hasta el momento. A medida que se modifican los campos, la landing se actualiza en tiempo real, como se muestra a continuación:
 
 <video src="/images/Changes-in-real-time.mp4" class="video" autoplay muted loop controls>
   Tu navegador no soporta el video.
 </video>
 
-También podemos notar que el **Previsualizador** tiene ciertos detalles:
+También podemos notar que el **Previsualizar** tiene ciertos detalles:
 
 <video src="/images/Detalles-del-Previsualizador.mp4" class="video" autoplay muted loop controls>
   Tu navegador no soporta el video.
