@@ -2,16 +2,12 @@
 
 Este proyecto usa [MkDocs](https://www.mkdocs.org/) para documentar la configuración y uso del CMS del equipo.
 
----
-
 ## 🚀 Requisitos para comenzar
 
 ### 1. ¿Qué es `pip`?
 
 `pip` es el sistema de gestión de paquetes para Python. Permite instalar librerías externas como MkDocs y sus plugins.
 Cuando instalas Python desde su sitio oficial o por Homebrew, `pip` suele venir incluido automáticamente.
-
----
 
 ### 2. 🔧 Instalación de Python y pip
 
@@ -123,13 +119,15 @@ Esto crea la carpeta `site/` con todo el contenido generado.
 
 ### 5. 📁 Estructura del proyecto
 
+```text
 MANUAL-CMS/
-├── docs/ # Archivos Markdown con el contenido de la documentación
-│ ├── index.md
-│ └── ...
-├── mkdocs.yml # Configuración de MkDocs (tema, navegación, plugins)
-├── requirements.txt # Lista de dependencias del proyecto
-└── README.md # Este archivo
+├── docs/                  # Archivos Markdown con el contenido de la documentación
+│   ├── index.md
+│   └── ...
+├── mkdocs.yml            # Configuración de MkDocs (tema, navegación, plugins)
+├── requirements.txt      # Lista de dependencias del proyecto
+└── README.md             # Este archivo
+```
 
 ### 6. 📁 Recursos útiles
 
