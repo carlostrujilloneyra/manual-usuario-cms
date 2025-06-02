@@ -18,5 +18,6 @@ Este CMS fue desarrollado en conjunto por el equipo conformado por:
 6. Gianella Espinoza (UI)
 7. Anggela Suárez Paucar (Product Owner)
 8. Renzo Alvarado y Yerko Vera (LTs)
+9. Katherine Carreño y Yamileidy Monne (Equipo QA)
 
 Gracias por utilizar nuestro CMS. ¡Éxitos en la creación de tus contenidos!
