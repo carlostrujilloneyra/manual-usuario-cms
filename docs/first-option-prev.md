@@ -24,12 +24,10 @@ Observamos que hay valores como:
 
 **Responsive:** El Previsualizador adapta automáticamente el contenido al cambiar el tamaño del navegador, mostrando cómo responde el diseño a diferentes dimensiones.
 
-**🔢 646**: Ancho del Previsualizar en píxeles (px).
+**🔢 978**: Ancho del Previsualizar en píxeles (px).
 
-**📐 539**: Altura del Previsualizador en píxeles (px).
+**📐 801**: Altura del Previsualizador en píxeles (px).
 
 **100%**: Porcentaje de visualización del Previsualizador. Puede tomar diferentes valores, se recomienda trabajar con **100%** o **Responsive**.
-
-**🔁 **: Permite ver la landing construida hasta el momento en una **nueva pestaña**.
 
 ---
